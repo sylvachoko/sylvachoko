@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sylvachoko
-- 👀 I’m interested in becoming a Web Developer & Flutter Developer
-- 🌱 I’m currently learning to create Wordpress themes & Flutter
-- 💞️ I’m looking to collaborate on Front end creations
+- 💞️ I’m looking to collaborate on Frontend creations
 - 📫 How to reach me www.sylva.design
 
 <!---
